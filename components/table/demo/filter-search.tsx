@@ -60,7 +60,7 @@ const data: DataType[] = [
   {
     key: '1',
     name: 'John Brown',
-    age: 32,
+    age: 99,
     address: 'New York No. 1 Lake Park',
   },
   {
